@@ -2,4 +2,4 @@
 
 |주차|주제|날짜|리뷰|
 |:--------:|:--------:|:--------:|:--------:|
-|**1주차**|RxSwift 소개, Observable 및 Disposesable|20.04.21|추가예정|
+|**1주차**|RxSwift 소개, Observable 및 Disposesable|21.04.23|추가예정|
