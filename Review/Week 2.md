@@ -253,7 +253,7 @@ Observable은 각각의 옵저버에 대해 코드가 독립적으로 실행되�
 
 <img src="https://user-images.githubusercontent.com/70688424/117419387-767f4580-af57-11eb-8a04-dfddfe86dbc3.gif" width="50%">
 
-swift의 On/Off 상태에 따라 Label을 변경시켰습니다.
+switch의 On/Off 상태에 따라 Label을 변경시켰습니다.
 
 RxCocoa는 RxSwift와 다르게 UIKit와 연결할 수 있기 때문에, UIKit의 switch의 상태에 따라 이벤트를 발생시킬 수 있습니다.
 
